@@ -81,7 +81,6 @@ adem_cad/
 │   ├── client/          # React 19 frontend (Vite 6)
 │   ├── server/          # Express backend (ESM, Node.js)
 │   └── shared/          # Common TypeScript types
-├── CLAUDE.md
 └── package.json
 ```
 

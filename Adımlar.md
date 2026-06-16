@@ -1,0 +1,1 @@
+çizimi bitiriyorum. finished sketch diyorum kaydetmiyor. Ayrıca mouse kontrolü de yok

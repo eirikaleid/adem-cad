@@ -1,8 +1,37 @@
+# Dependencies
 node_modules/
+.pnp
+.pnp.js
+
+# Build outputs
 dist/
+build/
+.vite/
+*.tsbuildinfo
+
+# Environment variables
 .env
 .env.local
-*.log
+.env.*.local
+
+# Claude / AI assistant files
+CLAUDE.md
+.claude/
+memory/
+**/.claude/
+**/memory/
+
+# OS
 .DS_Store
 Thumbs.db
-.vite/
+
+# Logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
